@@ -9,6 +9,14 @@ This repository contains scripts developed during my studies in gravitational ph
 * Fourier analysis
 * Parameter estimation
 
+## Tools
+
+* Python
+* NumPy
+* SciPy
+* Matplotlib
+* GWPy
+* Bilby
 ## Author
 
 Cynthia Maldonado
